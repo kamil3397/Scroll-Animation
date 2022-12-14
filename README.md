@@ -1,5 +1,3 @@
-##Scroll Animation
-
 ## Video
 
 Place new video here.
